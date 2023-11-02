@@ -10,7 +10,7 @@ html, body {
 .header {
     width: 100%;
     height: 100px;
-    background-color: orabge;
+    background-color: orange;
     display: flex;
     justify-content: space-around;
     align-items: center;
